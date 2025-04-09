@@ -8,8 +8,8 @@ const fs = require('fs');
 
 // 設定資訊
 const config = {
-  channelAccessToken: 'YOUR_CHANNEL_ACCESS_TOKEN',
-  channelSecret: 'YOUR_CHANNEL_SECRET'
+  channelAccessToken: '2007231846',
+  channelSecret: 'e9ff0360dcc9f9d14e71aa7d89cafb11'
 };
 
 // 創建LINE SDK客戶端
