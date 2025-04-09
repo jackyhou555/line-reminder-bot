@@ -8,7 +8,7 @@ const fs = require('fs');
 
 // 設定資訊
 const config = {
-  channelAccessToken: '2007231846',
+  channelAccessToken: 'pVzoPdMzSf2Go8V0fT3yOjYuy1bL5famfrcRHrLJMdxDKk+brRlX+QHj54ekkG3D1PK4LzIx4w7Zmzz9wkI6HeHnwnASNv9Myd31cklsvOaGm7wy3ETBgywn3mx0Hk9CJuyiuMrbfpu2Y3FQ88cSkgdB04t89/1O/w1cDnyilFU=',
   channelSecret: 'e9ff0360dcc9f9d14e71aa7d89cafb11'
 };
 
