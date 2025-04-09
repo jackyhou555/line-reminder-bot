@@ -82,11 +82,7 @@ function handleEvent(event) {
   }
 
   // 預設回覆
-  return client.replyMessage(event.replyToken, {
-    type: 'text',
-    text: '我是提醒機器人，請輸入「幫助」查看使用說明。'
-  });
-}
+  return Promise.resolve(null);    
 
 // 處理添加提醒
 function handleAddReminder(event) {
