@@ -1,0 +1,17 @@
+{
+  "name": "line-reminder-bot",
+  "version": "1.0.0",
+  "description": "Line 定時提醒機器人",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@line/bot-sdk": "^7.5.2",
+    "express": "^4.18.2",
+    "node-cron": "^3.0.2"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
